@@ -1,6 +1,6 @@
-Embed and Extract Data from image
+# Embed and Extract Data from image
 
-requires steghide tool: apt install steghide
+## requires steghide tool: apt install steghide
 
 usage: python steganography.py
 
